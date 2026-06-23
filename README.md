@@ -1,4 +1,4 @@
-# scholar-loger
+# scholar-logger
 
 
 
